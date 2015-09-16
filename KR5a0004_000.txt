@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 元始天尊説無上内祕眞藏經
-#+DATE: 2015-08-28 23:34:16
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:34:06.485869
+#+TITLE: 無上內秘真藏經
+#+PROPERTY: DZID  DZ0004
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—452 十卷 洞真部本文類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-八
+#+PROPERTY: WITNESS HFL
